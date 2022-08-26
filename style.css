@@ -1,0 +1,22 @@
+.body{
+    margin-top: 20px;
+    background-color: rgb(221, 216, 216);
+}
+
+h5{
+    font-weight: 800px;
+}
+
+.heading{
+    font-weight: 800px;
+
+}
+.box{
+    background-color: rgb(190, 183, 183);
+    text-align: left;
+}
+
+.image{
+    width:200px;
+    height:200px;
+}
