@@ -1,6 +1,6 @@
 .body{
     margin-top: 20px;
-    background-color: rgb(221, 216, 216);
+    background-color: rgb(211, 205, 179);
 }
 
 h5{
@@ -8,13 +8,16 @@ h5{
 }
 
 .heading{
-    font-weight: 800px;
+    font-weight: 800;
+}
 
-}
 .box{
-    background-color: rgb(190, 183, 183);
-    text-align: left;
+    padding: 15px;
+    margin: 10px 0px 10px 0px;
+    background-color: rgb(238, 237, 228);
+    border-radius: 6px;
 }
+
 
 .image{
     width:200px;
